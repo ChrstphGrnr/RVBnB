@@ -8,6 +8,11 @@ Further features will include Owners that can create new RVs for Users to rent a
 
 ## Installing 
 
+2 Options 
+
+- Go to https://rv-bnb.herokuapp.com 
+SignIn with Github or create an account with a fake email...browse and use the app at your leisure. 
+
 - go to the master branch in the authors Github, https://github.com/ChrstphGrnr/sinatra-portfolio-app 
 and fork the repo. 
 <br>Use your favorite local environment to clone the repo, then, while in the repo's directory in your console, run the following commands
