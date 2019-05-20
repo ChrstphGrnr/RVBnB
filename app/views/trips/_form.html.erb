@@ -14,7 +14,7 @@
 <%=  f.text_field :name%>
 
 <%= f.label :guests %>
-<%= f.select(:guests, (1..@trip.rv.sleeps).to_a) %>
+<%= f.select :guests, (1..@trip.rv.sleeps).to_a %>
 
 <%= f.label :start_date %>
 <%= f.date_field :start_date %>

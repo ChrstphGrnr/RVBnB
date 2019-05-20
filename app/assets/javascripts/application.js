@@ -15,3 +15,13 @@
 //= require turbolinks
 //= require_tree .
 //= require materialize
+
+
+document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('select');
+    var instances = M.FormSelect.init(elems, options);
+  });
+
+  // Or with jQuery
+
+   
