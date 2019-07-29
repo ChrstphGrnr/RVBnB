@@ -11,7 +11,6 @@ rv1 = Rv.create(name: "Cricket" , sleeps: 4, price: "180", trip_count: 0)
 rv2 = Rv.create(name: "Tigermoth", sleeps: 2 , price: "145", trip_count: 0)
 rv3 = Rv.create(name: "LittleGuy", sleeps: 2 , price: "130", trip_count: 0)
 rv4 = Rv.create(name: "Woolly Bear", sleeps: 2, price: "125", trip_count: 0)
-rv5 = Rv.create(name: "Mammoth", sleeps: 6, price: "200", trip_count: 0)
-rv6 = Rv.create(name: "Gazelle", sleeps: 2, price: "99", trip_count: 0)
+
 
 
